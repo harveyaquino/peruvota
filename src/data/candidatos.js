@@ -367,6 +367,34 @@ export const candidatos = [
     },
     descripcion: "General en retiro y ex presidente del Congreso (2022-2023). Candidato de Avanza País con perfil militar y discurso de mano dura.",
   },
+  {
+    id: 14,
+    nombre: "Jorge Nieto Montesinos",
+    partido: "Partido del Buen Gobierno",
+    color: "#1B7F79",
+    colorSecundario: "#25C7BF",
+    emoji: "🏛️",
+    encuesta: "1.5%",
+    posicion: "Centro",
+    lema: "Buen gobierno para un Perú mejor",
+    stats: {
+      economia: 78,
+      seguridad: 75,
+      educacion: 85,
+      salud: 88,
+      anticorrupcion: 90,
+      medioambiente: 88,
+    },
+    propuestas: {
+      economia: "Transición del modelo extractivo a una economía diversificada e inclusiva. Creación de un Fondo Soberano de Riqueza. Meta: crecimiento del PBI ≥ 5%, informalidad ≤ 50%, pobreza ≤ 20%. Apuesta por industrialización sostenible y ciencia, tecnología e innovación (CTI) con inversión en I+D ≥ 1% del PBI.",
+      seguridad: "Reforma integral del sistema de justicia y fuerzas del orden. Lucha frontal contra la extorsión y el crimen organizado. Fortalecimiento de entes reguladores con meritocracia. Cero impunidad con juicios efectivos y rápidos.",
+      educacion: "Educación inclusiva, equitativa y científica con pensamiento crítico e interculturalidad. Fortalecimiento de la carrera docente. Universalización de la educación superior. 100% de colegios con conectividad e infraestructura digital al 2031.",
+      salud: "Salud universal con enfoque intercultural y digitalización completa del sistema MINSA. Meta: anemia infantil < 10% y cobertura de salud efectiva al 100%. Sistema integrado que unifique EsSalud, MINSA y sanidades de FFAA y PNP.",
+      anticorrupcion: "Reforma integral del Estado: meritocracia, descentralización, transparencia y eficiencia. Fortalecimiento del equilibrio entre poderes. Lucha frontal contra el centralismo. Reforma del sistema de partidos y participación ciudadana activa.",
+      medioambiente: "Independencia energética con renovables: solar, eólica e hidrógeno verde. Impuestos verdes y eliminación progresiva de subsidios fósiles. Protección de la Amazonía y lucha contra la deforestación. Integración ferroviaria nacional: Marcona-Andahuaylas, Trujillo-Barranca, Chancay-Ica.",
+    },
+    descripcion: "Sociólogo, ex ministro de Cultura y ex ministro de Defensa (gobierno Kuczynski, 2016-2018). El plan de gobierno más detallado de la contienda: 7 ejes estratégicos, metas al 2031 e indicadores verificables por eje.",
+  },
 ];
 
 export const temas = [
