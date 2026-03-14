@@ -395,6 +395,34 @@ export const candidatos = [
     },
     descripcion: "Sociólogo, ex ministro de Cultura y ex ministro de Defensa (gobierno Kuczynski, 2016-2018). El plan de gobierno más detallado de la contienda: 7 ejes estratégicos, metas al 2031 e indicadores verificables por eje.",
   },
+  {
+    id: 15,
+    nombre: "Mesías Guevara",
+    partido: "Partido Morado",
+    color: "#782D8B",
+    colorSecundario: "#A349A4",
+    emoji: "🟣",
+    encuesta: "3.5%",
+    posicion: "Centro Republicano",
+    lema: "Haciendo Patria",
+    stats: {
+      economia: 78,
+      seguridad: 72,
+      educacion: 88,
+      salud: 82,
+      anticorrupcion: 95,
+      medioambiente: 85,
+    },
+    propuestas: {
+      economia: "Transformación productiva con enfoque en competitividad. Promoción del empleo formal y digno. Impulso a la infraestructura digital y conectividad nacional para empoderar al ciudadano.",
+      seguridad: "Fortalecimiento de la inteligencia policial y reforma del sistema de justicia. Lucha frontal contra la criminalidad cotidiana y las economías ilegales con enfoque preventivo.",
+      educacion: "Garantizar educación pública de calidad, inclusiva y equitativa. Enfoque en el desarrollo del talento y alineación con las necesidades del mercado laboral y la innovación.",
+      salud: "Construcción de un sistema de salud universal, integrado y eficiente. Garantizar acceso a medicamentos, atención primaria digna y modernización de la gestión hospitalaria.",
+      anticorrupcion: "Recuperación de la integridad republicana mediante la reforma del Estado. Transparencia absoluta, rendición de cuentas y fortalecimiento de las instituciones autónomas.",
+      medioambiente: "Desarrollo sostenible en armonía con el entorno. Protección de la biodiversidad, gestión de conflictos socioambientales y políticas activas frente al cambio climático.",
+    },
+    descripcion: "Ingeniero electrónico y político de trayectoria. Ex gobernador de Cajamarca y ex presidente de la ANGR. Su propuesta se basa en el 'Republicanismo de Centro', priorizando la institucionalidad, la ciencia y la modernización del aparato estatal.",
+  },
 ];
 
 export const temas = [
